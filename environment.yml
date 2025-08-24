@@ -1,0 +1,14 @@
+name: iris-project
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - pandas
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - jupyter
+  - scipy
+  - ipykernel
